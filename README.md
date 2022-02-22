@@ -40,4 +40,4 @@ import SignUp from '../pages/signup/SignUp'
 <br>Backend: REST API (Built with Django)<br/>
 Frontend: AJAX-based webiste (Using React)
 
-
+https://github.com/ertyppt/wall_back
